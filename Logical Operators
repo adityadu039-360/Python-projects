@@ -1,0 +1,7 @@
+# Program 6: Logical Operators
+
+age = 20
+has_id = True
+
+print("Eligible to vote:", age >= 18 and has_id)
+print("Minor or No ID:", age < 18 or not has_id)
