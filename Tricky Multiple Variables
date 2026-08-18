@@ -1,0 +1,6 @@
+#Tricky Multiple Variables
+x, y, z = 5, 10, 15
+
+x = y #store y value
+y = z #stores z value
+z = x #stores x value which is already stored y value
