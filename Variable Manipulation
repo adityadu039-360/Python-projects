@@ -1,0 +1,13 @@
+#Variable Manipulation
+
+name="Adithya"
+age=18
+height=5.6
+current_age=age+2
+current_height=height+0.5
+print("Name:",name)
+print("Age:",current_age)
+print("Height:",current_height)
+
+
+
