@@ -1,0 +1,7 @@
+marks1 = "85"
+marks2 = "90"
+marks3 = "75"
+total=int(marks1)+int(marks2)+int(marks3)
+average=total/3
+print("Total: ",total)
+print("Average: ",average)
