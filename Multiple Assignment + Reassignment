@@ -1,0 +1,10 @@
+a = 10
+b = 20
+c = 30
+temp=a
+a=c
+c=temp
+b+=15
+print("a: ",a)
+print("a: ",b)
+print("c: ",c)
