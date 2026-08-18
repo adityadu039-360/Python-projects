@@ -1,0 +1,8 @@
+#Real-World Calculation
+a=1000
+b=250 #spends for books
+c=120 #Spends for food
+d=80  #spends on travel
+e=200 #friend gives
+t=a-(b+c+d)+e
+print("Remaining Money: ",t)
