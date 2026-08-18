@@ -1,0 +1,12 @@
+#Mini Challenge
+name = "Adithya"
+age = 18
+marks = "450"
+subjects = 5
+marks=int(marks)
+average=marks/subjects
+age+=2
+print("Student: ",name)
+print("Age after 2 years: ",age)
+print("Total Marks: ",marks)
+print("Average Marks: ",aver
