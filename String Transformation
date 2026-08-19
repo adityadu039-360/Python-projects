@@ -1,0 +1,6 @@
+#String Transformation
+text=input("Enter a sentence: ")
+print("Original :",text.strip())
+print("Uppercase :",text.upper())
+print("Lowercase :",text.lower())
+print("Replaced: ",text.replace("python","programming"))
