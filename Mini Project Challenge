@@ -1,0 +1,11 @@
+#Mini Project Challenge
+
+Name=input("Enter your name: ")
+Age=int(input("Enter age: "))
+College=input("Enter your college: ")
+Course = input("Enter your course: ")
+City=input("Enter your city: ")
+Favorite_programming_language=input("Enter your favorite programming language: ")
+print("================================\n \t STUDENT PROFILE \t\n================================")
+print(f"Name\t: {Name}\nAge\t: {Age}\nCollege\t:{College}\nCourse\t:{Course}\nCity\t: {City}\nFavorite_programming_language\t: {Favorite_programming_language}")
+print("================================\n \t THANK YOU FOR VISITING! \t\n================================")
