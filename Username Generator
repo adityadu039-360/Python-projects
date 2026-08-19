@@ -1,0 +1,7 @@
+#Username Generator
+First_name=input("Enter first name: ")
+Last_name=input("Enter last name: ")
+Age=int(input("Enter age: "))
+
+print(f"username: {First_name[:3].lower()+Last_name[-4:].lower()+str(Age)}")
+
