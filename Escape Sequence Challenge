@@ -1,0 +1,7 @@
+#Escape Sequence Challenge
+name="Adithya"
+age=18
+course= "Python"
+city= "Bengaluru"
+skills= "\tPython\n\tGit\n\tFlutter"
+print(f" Name: {name}\n age: {age}\n course: {course}\n city: {city}\n skills: \n {skills}")
