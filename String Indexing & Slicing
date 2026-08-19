@@ -1,0 +1,8 @@
+#String Indexing & Slicing
+word=input("Enter a word: ")
+print("First character",word[0])
+print("Last character",word[-1])
+print("Second character",word[1])
+print('Second last character',word[-2])
+print("First four characters",word[:4])
+print("Last three characters: ",word[-3:])
