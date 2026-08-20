@@ -1,0 +1,13 @@
+# Escape Sequence Challenge
+print("================================")
+print("\tPYTHON SKILLS")
+print("================================")
+print()
+print("\tPython")
+print("\tSQL")
+print("\tGit")
+print("\tDSA")
+print()
+print('\t"Keep Learning!"')
+print('\t"Keep Practicing!"')
+print("================================")
