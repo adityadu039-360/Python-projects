@@ -1,0 +1,5 @@
+
+#String Cleaning & Transformation
+sentence=input("Enter your sentence: ")
+sentence=sentence.strip()
+print(f"Original\t: {sentence.strip()}\nUppercase\t: {sentence.upper()}\nLowercase\t: {sentence.lower()}\nChanged\t: {sentence.replace('Python','programming')}")
