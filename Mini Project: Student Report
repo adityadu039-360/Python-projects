@@ -1,0 +1,12 @@
+#Mini Project: Student Report
+
+# Collect student information from the user
+Name = input("Enter your name: ").strip()
+Age = int(input("Enter your age: "))
+College = input("Enter your college: ")
+Course =input("Enter your course: ")
+City = input("Enter your city: ")
+Language = input("Enter your language: ")
+Favorite_Skill = input("Enter your favorite skill: ")
+# Display the formatted student report
+print(f"========================================\t\tSTUDENT REPORT\t\t\n========================================\nName\t: {Name}\nAge\t: {Age}\nCollege\t: {College}\nCourse\t: {Course}\nCity\t: {City}\nLanguage\t: {Language}\nFavorite Skill\t: {Favorite_Skill}\n========================================\n\t\tKEEP LEARNING, ADITHYA!\n========================================")
