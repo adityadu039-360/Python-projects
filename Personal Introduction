@@ -1,0 +1,6 @@
+#Personal Introduction
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+college=input("Enter your college: ")
+city=input("Enter your city: ")
+print(f"========== PROFILE ==========\nName\t: {name}\nAge\t\t: {age}\nCollege\t: {college}\nCity\t: {city}\n=============================")
