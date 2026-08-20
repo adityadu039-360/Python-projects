@@ -1,0 +1,3 @@
+#String Indexing & Slicing
+word = input("Enter your word: ")
+print(f"First character: {word[0]}\nLast character: {word[-1]}\nThird character: {word[2]}\nThird-last character: {word[-3]}\nFirst 5 characters: {word[:5]}\nLast 4 characters: {word[-4:]}\nIndex 2 to 6: {word[2:6]}")
